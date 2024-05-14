@@ -1,5 +1,5 @@
 # pythoncs
-<h1 align="center">Hi 👋, I'm Advik</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 <h3 align="center">This is the official repository for cspython codebase.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garyh0st&label=Profile%20views&color=0e75b6&style=flat" alt="garyh0st" /> </p>
