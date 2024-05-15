@@ -1,1 +1,0 @@
-print('Student\'s name')
